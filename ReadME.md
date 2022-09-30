@@ -1,4 +1,4 @@
-# Monster Slayer Game
+#Monster Slayer Game
 
 ## Table of contents:
 
